@@ -25,9 +25,3 @@ This section is a list of definitions and principles used to guide the project.
 2-1 [Open Data Principles](principles/) - The set of open data principles.
 
 2-2 [Standards, Specifications, and Formats](open-standards/) - Standards, specifications, and formats supporting open data objectives.   
-
-2-3 [Open Data Glossary](glossary/) - The glossary of open data terms.
-
-2-4 [Open Licenses](open-licenses/) - The definition for open licenses. 
-
-2-5 [Common Core Metadata](schema/) - The schema used to describe datasets, APIs, and published data at agency.gov/data.  
