@@ -6,6 +6,11 @@ filename: index.md
 title: Home
 ---
 
+
+[![DOI Data Catalog](http://usinterior.github.io/doi-data-hub/assets/img/doi_ckan_screenshot_650w.jpg)](http://www.nytimes.com)
+
+
+
 ##1. Background
 
 Data is a valuable national resource and a strategic asset to the U.S. Government, its partners, and the public.  Managing this data as an asset and making it available, discoverable, and usable – [in a word, open](principles/) – not only strengthens our democracy and promotes efficiency and effectiveness in government, but also has the potential to create economic opportunity and improve citizens’ quality of life. 
